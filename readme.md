@@ -1,0 +1,1 @@
+I've decided that everything I try to cook (not much) should have a recipe with precise measurements for things under version control.  Because it's 2020, not 220, we don't need "pinches" and the failure to record relevant data. 
