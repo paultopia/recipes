@@ -19,7 +19,7 @@ Outdoor humidity 56%.  Indoor humidity and temperature unknown. Altitude: Chicag
 - 2 eggs
 - 3 tablespoons flour 
 - 4 tablespoons (1/2 stick) butter
-- 1 cup skim milk
+- 1.5 cups skim milk
 - CHEESES
   - 2 cups grated/shredded (are these different?) "mild cheddar" of which 1/2 cup will be reserve for top
   - 1 cup aged cheddar, all for reserve
@@ -32,7 +32,7 @@ Outdoor humidity 56%.  Indoor humidity and temperature unknown. Altitude: Chicag
 
 1.  Preheat oven to 350f. 
 2.  Pre-grate cheese and lay out all other ingredients, measured, close to hand so that the pasta isn't boiling over and flooding the house when you're trying to grate cheese
-3.  Mix together milk, flour, egg, annies cheese powder, and cheeses OTHER THAN RESERVE CHEESE NOTED ABOVE, and stir, in mixing bowl.
+3.  Mix together milk, flour, egg, annies cheese powder, butter, and cheeses OTHER THAN RESERVE CHEESE NOTED ABOVE, and stir, in mixing bowl.
 
 ## boil the pasta
 
@@ -40,17 +40,13 @@ Outdoor humidity 56%.  Indoor humidity and temperature unknown. Altitude: Chicag
 5.  Boil pasta 5.5 minutes.
 6.  Drain pasta, set aside.
 
-## make the sauce
-
-7. Take bowl and put in hot pan from pasta.  melt the cheeses mixture until it's melted. (try to time this). Keep stirring in the process.
-
 ## oven setup
 
-8.  Butter the sides of the pyrex dish
-9.  Add the pasta to the dish
-10. Add spices to the dish.  This is going to depend on what's available, and I don't have good measurements for these right now, but I'm thinking pepper, a small amount of salt, paprika, cayenne, and celery salt at a minimum; possibly also cumin and corriander if I can find any in a convenient form.  maybe curry powder or barbecue powder if there's any lying around. 
-11. Add the sauce to the dish and shake around
-12. Add the aged cheddar to the top. 
-13. Bake for 35 minutes
-14. Let stand for 10 mins.
+7.  Butter the sides of the pyrex dish
+8.  Add the pasta to the dish
+9. Add spices to the dish.  This is going to depend on what's available, and I don't have good measurements for these right now, but I'm thinking pepper, a small amount of salt, paprika, cayenne, and celery salt at a minimum; possibly also cumin and corriander if I can find any in a convenient form.  maybe curry powder or barbecue powder if there's any lying around. 
+10. Add the sauce to the dish and stir
+11. Add the aged cheddar to the top. 
+12. Bake for 35 minutes
+13. Let stand for 10 mins.
 
