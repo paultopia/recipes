@@ -46,7 +46,7 @@ Outdoor humidity 56%.  Indoor humidity and temperature unknown. Altitude: Chicag
 8.  Add the pasta to the dish
 9. Add spices to the dish.  This is going to depend on what's available, and I don't have good measurements for these right now, but I'm thinking pepper, a small amount of salt, paprika, cayenne, and celery salt at a minimum; possibly also cumin and corriander if I can find any in a convenient form.  maybe curry powder or barbecue powder if there's any lying around. 
 10. Add the sauce to the dish and stir
-11. Add the aged cheddar to the top. 
+11. Add the reserve cheese to the top. 
 12. Bake for 35 minutes
 13. Let stand for 10 mins.
 
