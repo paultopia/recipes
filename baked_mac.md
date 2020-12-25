@@ -33,16 +33,16 @@ Outdoor humidity 56%.  Indoor humidity and temperature unknown. Altitude: Chicag
 1.  Preheat oven to 350f. 
 2.  Pre-grate cheese and lay out all other ingredients, measured, close to hand so that the pasta isn't boiling over and flooding the house when you're trying to grate cheese
 3.  Mix together milk, flour, egg, annies cheese powder, butter, and cheeses OTHER THAN RESERVE CHEESE NOTED ABOVE, and stir, in mixing bowl.
+4.  Butter the sides of the pyrex dish
 
 ## boil the pasta
 
-4.  Fill 5 quart pan with water as close as possible (going to have to fucking guess at displacement of pasta because I don't have one actually big enough for what it says on the box for the amount of pasta going in, so, YOLO.), plus 1 turn of the salt grinder (needs real measurement) and a capful of olive oil (needs real measurement)
-5.  Boil pasta 5.5 minutes.
-6.  Drain pasta, set aside.
+5.  Fill 5 quart pan with water as close as possible (going to have to fucking guess at displacement of pasta because I don't have one actually big enough for what it says on the box for the amount of pasta going in, so, YOLO.), plus 1 turn of the salt grinder (needs real measurement) and a capful of olive oil (needs real measurement)
+6.  Boil pasta 5.5 minutes.
+7.  Drain pasta, set aside.
 
 ## oven setup
 
-7.  Butter the sides of the pyrex dish
 8.  Add the pasta to the dish
 9. Add spices to the dish.  This is going to depend on what's available, and I don't have good measurements for these right now, but I'm thinking pepper, a small amount of salt, paprika, cayenne, and celery salt at a minimum; possibly also cumin and corriander if I can find any in a convenient form.  maybe curry powder or barbecue powder if there's any lying around. 
 10. Add the sauce to the dish and stir
